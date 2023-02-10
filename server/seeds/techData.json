@@ -1,35 +1,57 @@
 [
   {
-    "name": "JavaScript"
+    "name": "GPU",
+    "brand": "Intel",
+    "Price": "200"
   },
   {
-    "name": "HTML"
+    "name": "GPU",
+    "brand": "Intel",
+    "Price": "200"
   },
   {
-    "name": "CSS"
+    "name": "GPU",
+    "brand": "Intel",
+    "Price": "200"
   },
   {
-    "name": "Node.js"
+    "name": "GPU",
+    "brand": "Intel",
+    "Price": "200"
   },
   {
-    "name": "Express.js"
+    "name": "GPU",
+    "brand": "Intel",
+    "Price": "200"
   },
   {
-    "name": "MySQL"
+    "name": "GPU",
+    "brand": "Intel",
+    "Price": "200"
   },
   {
-    "name": "MongoDB"
+    "name": "GPU",
+    "brand": "Intel",
+    "Price": "200"
   },
   {
-    "name": "React"
+    "name": "GPU",
+    "brand": "Intel",
+    "Price": "200"
   },
   {
-    "name": "GraphQL"
+    "name": "GPU",
+    "brand": "Intel",
+    "Price": "200"
   },
   {
-    "name": "Sequelize"
+    "name": "GPU",
+    "brand": "Intel",
+    "Price": "200"
   },
   {
-    "name": "Handlebars.js"
+    "name": "GPU",
+    "brand": "Intel",
+    "Price": "200"
   }
 ]
