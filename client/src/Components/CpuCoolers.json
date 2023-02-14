@@ -1,0 +1,81 @@
+[
+{
+    "name":"ADATA XPG LEVANTE 240",
+    "brand":"ADATA",
+    "price":"130",
+    "type":"AIO"
+},
+{
+    "name":"ADATA XPG LEVANTE 360",
+    "brand":"ADATA",
+    "price":"170",
+    "type":"AIO"
+},
+{
+    "name":"Cooler Master Hyper 212 RGB Black Edition ",
+    "brand":"Cooler Master",
+    "price":"313",
+    "type":"AIO"
+},
+{
+    "name":"be quiet! Dark Rock Pro 4",
+    "brand":"be quiet!",
+    "price":"90",
+    "type":"air cooler"
+},
+{
+    "name":"Cooler Master MASTERLIQUID ML240L RGB V2",
+    "brand":"Cooler Master",
+    "price":"90",
+    "type":"AIO"
+},
+{
+    "name":"Noctua NH-D15 chromax.black",
+    "brand":"Noctua",
+    "price":"115",
+    "type":"air cooler"
+},
+{
+    "name":"CORSAIR ICUE H100I ELITE CAPELLIX",
+    "brand":"CORSAIR",
+    "price":"150",
+    "type":"AIO"
+},
+{
+    "name":"be quiet! Pure Rock 2 Black",
+    "brand":"be quiet!",
+    "price":"45",
+    "type":"air cooler"
+},
+{
+    "name":"NZXT Kraken X53",
+    "brand":"NZXT",
+    "price":"135",
+    "type":"AIO"
+},
+{
+    "name":"NZXT Kraken X73",
+    "brand":"NZXT",
+    "price":"290",
+    "type":"AIO"
+},
+{
+    "name":"Noctua NH-D15",
+    "brand":"Noctua",
+    "price":"100",
+    "type":"air cooler"
+},
+{
+    "name":"CORSAIR ICUE H510i ELITE CAPELLIX",
+    "brand":"CORSAIR",
+    "price":"200",
+    "type":"AIO"
+},
+
+{
+    "name":"DeepCool AK400",
+    "brand":"Deepcool",
+    "price":"32",
+    "type":"air cooler"
+}
+]
