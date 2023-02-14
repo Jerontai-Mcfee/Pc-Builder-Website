@@ -1,5 +1,5 @@
-[
-  {
+ [
+   {
     "name": "i9-13900ks",
     "brand": "Intel",
     "Price": "730"
@@ -42,8 +42,7 @@
   {
     "name": "i7-13700F",
     "brand": "Intel",
-    "Price": "380",
-    "category_id":"cpu"
+    "Price": "380"
   },
   {
     "name": "i7-13700",
@@ -94,15 +93,5 @@
     "name": "Ryzen 9 5900X",
     "brand": "AMD",
     "Price": "340"
-  },
-   {
-    "name": "Ryzen 7 ",
-    "brand": "AMD",
-    "Price": "200"
-  },
-  {
-    "name": "",
-    "brand": "nividia",
-    "Price": "200"
-  },
+  }
 ]
