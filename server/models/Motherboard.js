@@ -1,6 +1,6 @@
 const { Schema, model } = require('mongoose');
 
-const gpuSchema = new Schema({
+const motherboardSchema = new Schema({
     name: {
         type: String,
         required: true
@@ -13,12 +13,16 @@ const gpuSchema = new Schema({
         type: String,
         required: true
     },
+    chipset: {
+        type: String,
+        required: true
+    },
     img: {
         type: String,
         required: true
     },
 });
 
-const GPU = model ('GPU', gpuSchema);
+const Motherboard = model ('Motherboard', motherboardSchema);
 
-module.exports = GPU;
+module.exports = Motherboard;

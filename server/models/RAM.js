@@ -1,11 +1,23 @@
 const { Schema, model } = require('mongoose');
 
-const gpuSchema = new Schema({
+const ramSchema = new Schema({
     name: {
         type: String,
         required: true
     },
     brand: {
+        type: String,
+        required: true
+    },
+    type: {
+        type: String,
+        required: true
+    },
+    capacity: {
+        type: String,
+        required: true
+    },
+    speed: {
         type: String,
         required: true
     },
@@ -19,6 +31,6 @@ const gpuSchema = new Schema({
     },
 });
 
-const GPU = model ('GPU', gpuSchema);
+const RAM = model ('Ram', ramSchema);
 
-module.exports = GPU;
+module.exports = RAM;

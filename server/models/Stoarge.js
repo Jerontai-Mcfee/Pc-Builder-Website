@@ -1,6 +1,6 @@
 const { Schema, model } = require('mongoose');
 
-const gpuSchema = new Schema({
+const storageSchema = new Schema({
     name: {
         type: String,
         required: true
@@ -13,12 +13,20 @@ const gpuSchema = new Schema({
         type: String,
         required: true
     },
+    Capacity: {
+        type: String,
+        required: true
+    },
+    type: {
+        type: String,
+        required: true
+    },
     img: {
         type: String,
         required: true
     },
 });
 
-const GPU = model ('GPU', gpuSchema);
+const Storage = model ('Storage', storageSchema);
 
-module.exports = GPU;
+module.exports = Storage;
