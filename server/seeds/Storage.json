@@ -1,0 +1,143 @@
+[
+    {
+    "name": "980 Pro NVME PCIe M.2",
+    "brand":"Samsung",
+    "price":"130",
+    "Capactiy":"1TB",
+    "type":"SSD"
+    },
+     {
+    "name": "980 Pro NVME PCIe M.2",
+    "brand":"Samsung",
+    "price":"189",
+    "Capactiy":"2TB",
+    "type":"SSD"
+    },
+     {
+    "name": "970 PRO NVME PCIe M.2",
+    "brand":"Samsung",
+    "price":"80",
+    "Capactiy":"1TB",
+    "type":"SSD"
+    },
+    {
+    "name": "970 PRO NVME PCIe M.2",
+    "brand":"Samsung",
+    "price":"50",
+    "Capactiy":"500GB",
+    "type":"SSD"
+    },
+    {
+    "name": "XPG SX8200 NVME PCIe M.2",
+    "brand":"ADATA",
+    "price":"43",
+    "Capactiy":"512GB",
+    "type":"SSD"
+    },
+    {
+    "name": "EX950 NVME PCIe M.2",
+    "brand":"Hp",
+    "price":"140",
+    "Capactiy":"2TB",
+    "type":"SSD"
+    },
+    {
+    "name": "860 Evo ",
+    "brand":"Samsung",
+    "price":"260",
+    "Capactiy":"2TB",
+    "type":"SSD"
+    },
+    {
+    "name": "p1 3D NVMe PCIe M.2",
+    "brand":"Crucial",
+    "price":"74",
+    "Capactiy":"1TB",
+    "type":"SSD"
+    },
+    {
+    "name": "XPG SX8200 PRO NVMe PCIe",
+    "brand":"ADATA",
+    "price":"65",
+    "Capactiy":"1TB",
+    "type":"SSD"
+    },
+    {
+    "name": "970 EVO Plus NVMe PCIe M.2",
+    "brand":"Samsung",
+    "price":"59",
+    "Capactiy":"250GB",
+    "type":"SSD"
+    },
+    {
+    "name": "Barracuda 1TB (2016)",
+    "brand":"Seagate",
+    "price":"40",
+    "Capactiy":"1TB",
+    "type":"HDD"
+    },
+    {
+    "name": "WD Blue 1tb(2012)",
+    "brand":"WD",
+    "price":"30",
+    "Capactiy":"1TB",
+    "type":"HDD"
+    },
+    {
+    "name": "Barracuda 2TB (2016)",
+    "brand":"Seagate",
+    "price":"80",
+    "Capactiy":"2TB",
+    "type":"HDD"
+    },
+    {
+    "name": "Barracuda 3TB (2016)",
+    "brand":"Seagate",
+    "price":"110",
+    "Capactiy":"3TB",
+    "type":"HDD"
+    },
+    {
+    "name": "Barracuda 7200.14",
+    "brand":"Seagate",
+    "price":"29",
+    "Capactiy":"1TB",
+    "type":"HDD"
+    },
+    {
+    "name": "WD Black 1TB (2013)",
+    "brand":"WD",
+    "price":"65",
+    "Capactiy":"2TB",
+    "type":"HDD"
+    },
+    {
+    "name": "WD Velociraptor 1TB",
+    "brand":"WD",
+    "price":"55",
+    "Capactiy":"1TB",
+    "type":"HDD"
+    },
+    {
+    "name": "Barracuda 4tb (2016)",
+    "brand":"Seagate",
+    "price":"80",
+    "Capactiy":"4Tb",
+    "type":"HDD"
+    },
+    {
+    "name": "WD Black 2TB (2013)",
+    "brand":"WD",
+    "price":"65",
+    "Capactiy":"2TB",
+    "type":"HDD"
+    },
+    {
+    "name": "FireCuda SSHD 2tb (2016)",
+    "brand":"Seagate",
+    "price":"150",
+    "Capactiy":"2TB",
+    "type":"HDD"
+    }
+
+]
