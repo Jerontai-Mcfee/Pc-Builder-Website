@@ -2,101 +2,121 @@
     {
     "name":"RTX 3060",
     "brand":"Nvidia",
-    "price":"354"
+    "price":"354",
+    "img":"https://m.media-amazon.com/images/I/811sBakp3+L.jpg"
     },
      {
     "name":"RTX 3060-TI",
     "brand":"Nvidia",
-    "price":"457"
+    "price":"457",
+    "img":"https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81uam+7+BMS.jpg"
     },
      {
     "name":"RTX 4070-TI",
     "brand":"Nvidia",
-    "price":"870"
+    "price":"870",
+    "img":"https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71BGmiM5y3L.jpg"
     },
      {
     "name":"RTX 4090",
     "brand":"Nvidia",
-    "price":"1,795"
+    "price":"1,795",
+    "img":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6522/6522679_sd.jpg"
     },
      {
     "name":"RTX 4080",
     "brand":"Nvidia",
-    "price":"1,224"
+    "price":"1,224",
+    "img":"https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71kWtif0f-L.jpg"
+    },
+     {
+    "name":"RTX 3090-TI",
+    "brand":"Nvidia",
+    "price":"1,449",
+    "img":"https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71QcGUtjUuL.jpg"
     },
      {
     "name":"RTX 3080-TI",
     "brand":"Nvidia",
-    "price":"1,449"
-    },
-     {
-    "name":"RTX 3080-TI",
-    "brand":"Nvidia",
-    "price":"1,100"
+    "price":"1,100",
+    "img":"https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81B2tCDJWgS.jpg"
     },
      {
     "name":"RTX 3070-TI",
     "brand":"Nvidia",
-    "price":"579"
+    "price":"579",
+    "img":"https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81d0pk3xOiS.jpg"
     },
      {
     "name":"RTX 3070",
     "brand":"Nvidia",
-    "price":"558"
+    "price":"558",
+    "img":"https://dlcdnwebimgs.asus.com/gain/39d4cd79-9ba5-4022-9e75-7251cddd17a4/"
     },
      {
-    "name":"rtx 2070",
+    "name":"RTX 2070",
     "brand":"Nvidia",
-    "price":"500"
+    "price":"500",
+    "img":"https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81aYe59YJKL.jpg"
     },
      {
     "name":"RX 7900-XTX",
     "brand":"AMD",
-    "price":"999"
+    "price":"999",
+    "img":"https://www.asrock.com/Graphics-Card/photo/Radeon%20RX%207900%20XTX%20Taichi%2024GB%20OC(M1).png"
     },
      {
     "name":"RX 6900-XT",
     "brand":"AMD",
-    "price":"900"
+    "price":"900",
+    "img":"https://m.media-amazon.com/images/I/81U5H5c0jyL.jpg"
     },
      {
     "name":"RX 6800-XT",
     "brand":"AMD",
-    "price":"850"
+    "price":"850",
+    "img":"https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/41ukBwoPBrL.jpg"
     },
      {
     "name":"RX 6700-XT",
     "brand":"AMD",
-    "price":"600"
+    "price":"600",
+    "img":"https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81pPkBiJ8ZL.jpg"
     },
      {
     "name":"RX 6600-XT",
     "brand":"AMD",
-    "price":"290"
+    "price":"290",
+    "img":"https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/718s0pX5zGL.jpg"
     },
      {
     "name":"RX 5700-XT",
     "brand":"AMD",
-    "price":"300"
+    "price":"300",
+    "img":"https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71etf3bTg-L.jpg"
     },
      {
     "name":"RX Vega-64",
     "brand":"AMD",
-    "price":"150"
+    "price":"150",
+    "img":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6040/6040105_sd.jpg"
     },
      {
     "name":"RX 5700",
     "brand":"AMD",
-    "price":"220"
+    "price":"220",
+    "img":"https://static.gigabyte.com/StaticFile/Image/Global/9e3c3b9a1e5efedf56b3a3d0d9795d2f/Product/23248/Png"
     },
      {
-    "name":"Rx 580",
+    "name":"RX 580",
     "brand":"AMD",
-    "price":"130"
+    "price":"130",
+    "img":"https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/811fVQidHrL.jpg"
     },
      {
     "name":"RX Vega-56",
     "brand":"AMD",
-    "price":"190"
+    "price":"190",
+    "img":"https://static.gigabyte.com/StaticFile/Image/Global/66a02471f462f1d79a8c2c971cb2f1e7/Product/18935/Png"
     }
 ]

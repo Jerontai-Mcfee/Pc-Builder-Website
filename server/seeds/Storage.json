@@ -4,140 +4,159 @@
     "brand":"Samsung",
     "price":"130",
     "Capactiy":"1TB",
-    "type":"SSD"
+    "type":"SSD",
+    "img":"https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/61Mo8ug0aQS.jpg"
     },
      {
     "name": "980 Pro NVME PCIe M.2",
     "brand":"Samsung",
     "price":"189",
     "Capactiy":"2TB",
-    "type":"SSD"
+    "type":"SSD",
+    "img":"https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/61JkTXrgYxS.jpg"
     },
      {
     "name": "970 PRO NVME PCIe M.2",
     "brand":"Samsung",
     "price":"80",
     "Capactiy":"1TB",
-    "type":"SSD"
+    "type":"SSD",
+    "img":"https://image-us.samsung.com/SamsungUS/home/computing/memory-and-monitors/9-27-21/mz-v7p1t0bw-gallery/MZ-V7P1T0BW_005.jpg?$product-details-jpg$"
     },
     {
     "name": "970 PRO NVME PCIe M.2",
     "brand":"Samsung",
     "price":"50",
-    "Capactiy":"500GB",
-    "type":"SSD"
+    "Capactiy":"512GB",
+    "type":"SSD",
+    "img":"https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81lW6i9WiCL.jpg"
     },
     {
     "name": "XPG SX8200 NVME PCIe M.2",
     "brand":"ADATA",
     "price":"43",
     "Capactiy":"512GB",
-    "type":"SSD"
+    "type":"SSD",
+    "img":"https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71XcJwTViCL.jpg"
     },
     {
     "name": "EX950 NVME PCIe M.2",
     "brand":"Hp",
     "price":"140",
     "Capactiy":"2TB",
-    "type":"SSD"
+    "type":"SSD",
+    "img":"https://static.tweaktown.com/content/8/8/8895_350_hp-ex950-2tb-ssd-review_full.png"
     },
     {
     "name": "860 Evo ",
     "brand":"Samsung",
     "price":"260",
     "Capactiy":"2TB",
-    "type":"SSD"
+    "type":"SSD",
+    "img":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6221/6221150cv14d.jpg"
     },
     {
     "name": "p1 3D NVMe PCIe M.2",
     "brand":"Crucial",
     "price":"74",
     "Capactiy":"1TB",
-    "type":"SSD"
+    "type":"SSD",
+    "img":"https://c1.neweggimages.com/ProductImage/20-156-199-S01.jpg"
     },
     {
     "name": "XPG SX8200 PRO NVMe PCIe",
     "brand":"ADATA",
     "price":"65",
     "Capactiy":"1TB",
-    "type":"SSD"
+    "type":"SSD",
+    "img":"https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71Q4ukBjtRL.jpg"
     },
     {
     "name": "970 EVO Plus NVMe PCIe M.2",
     "brand":"Samsung",
     "price":"59",
     "Capactiy":"250GB",
-    "type":"SSD"
+    "type":"SSD",
+    "img":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6324/6324467cv14d.jpg"
     },
     {
     "name": "Barracuda 1TB (2016)",
     "brand":"Seagate",
     "price":"40",
     "Capactiy":"1TB",
-    "type":"HDD"
+    "type":"HDD",
+    "img":"https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81TfYt1nG3L.jpg"
     },
     {
     "name": "WD Blue 1tb(2012)",
     "brand":"WD",
     "price":"30",
     "Capactiy":"1TB",
-    "type":"HDD"
+    "type":"HDD",
+    "img":"https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/61fiQSb2-hS.jpg"
     },
     {
     "name": "Barracuda 2TB (2016)",
     "brand":"Seagate",
     "price":"80",
     "Capactiy":"2TB",
-    "type":"HDD"
+    "type":"HDD",
+    "img":"https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81-ZDiZBt5L.jpg"
     },
     {
     "name": "Barracuda 3TB (2016)",
     "brand":"Seagate",
     "price":"110",
     "Capactiy":"3TB",
-    "type":"HDD"
+    "type":"HDD",
+    "img":"https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81D1NhzqV2L.jpg"
     },
     {
     "name": "Barracuda 7200.14",
     "brand":"Seagate",
     "price":"29",
     "Capactiy":"1TB",
-    "type":"HDD"
+    "type":"HDD",
+    "img":"https://i.ebayimg.com/images/g/xwcAAOSwna1ZwBCs/s-l500.jpg"
     },
     {
     "name": "WD Black 1TB (2013)",
     "brand":"WD",
     "price":"65",
-    "Capactiy":"2TB",
-    "type":"HDD"
+    "Capactiy":"1TB",
+    "type":"HDD",
+    "img":"https://c1.neweggimages.com/ProductImage/22-236-625-V07.jpg"
     },
     {
     "name": "WD Velociraptor 1TB",
     "brand":"WD",
     "price":"55",
     "Capactiy":"1TB",
-    "type":"HDD"
+    "type":"HDD",
+    "img":"https://c1.neweggimages.com/ProductImage/22-236-366-S02.jpg"
     },
     {
     "name": "Barracuda 4tb (2016)",
     "brand":"Seagate",
     "price":"80",
     "Capactiy":"4Tb",
-    "type":"HDD"
+    "type":"HDD",
+    "img":"https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71ijXHv0jHL.jpg"
     },
     {
     "name": "WD Black 2TB (2013)",
     "brand":"WD",
     "price":"65",
     "Capactiy":"2TB",
-    "type":"HDD"
+    "type":"HDD",
+    "img":"https://c1.neweggimages.com/ProductImage/22-236-624-V08.jpg"
     },
     {
     "name": "FireCuda SSHD 2tb (2016)",
     "brand":"Seagate",
     "price":"150",
     "Capactiy":"2TB",
-    "type":"HDD"
+    "type":"HDD",
+    "img":"https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/713VM9PMkOL.jpg"
     }
-
 ]
