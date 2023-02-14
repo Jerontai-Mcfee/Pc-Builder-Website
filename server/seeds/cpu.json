@@ -114,17 +114,5 @@
     "brand": "AMD",
     "Price": "340",
     "img": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6438/6438942_sd.jpg;maxHeight=640;maxWidth=550"
-  },
-   {
-    "name": "Ryzen 7 ",
-    "brand": "AMD",
-    "Price": "200",
-    "img": ""
-  },
-  {
-    "name": "",
-    "brand": "nividia",
-    "Price": "200",
-    "img": ""
   }
 ]

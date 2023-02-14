@@ -1,5 +1,4 @@
 const { Schema, model } = require('mongoose');
-const { number } = require('yargs');
 
 const cpuSchema = new Schema({
     name: {
@@ -11,11 +10,15 @@ const cpuSchema = new Schema({
         required: true
     },
     Price: {
-        type: number,
+        type: String,
         required: true
     },
     img: {
         type: String,
         required: true
-    }
-})
+    },
+});
+
+const CPU = model ('CPU', cpuSchema);
+
+module.exports = CPU;
