@@ -1,5 +1,5 @@
-[
-  {
+ [
+   {
     "name": "i9-13900ks",
     "brand": "Intel",
     "Price": "730"
@@ -42,8 +42,7 @@
   {
     "name": "i7-13700F",
     "brand": "Intel",
-    "Price": "380",
-    "category_id":"cpu"
+    "Price": "380"
   },
   {
     "name": "i7-13700",
@@ -94,6 +93,7 @@
     "name": "Ryzen 9 5900X",
     "brand": "AMD",
     "Price": "340"
+<<<<<<< HEAD:server/seeds/techData.json
   },
    {
     "name": "Ryzen 7 ",
@@ -104,5 +104,7 @@
     "name": "",
     "brand": "nividia",
     "Price": "200"
+=======
+>>>>>>> d28b773e58170e8b24fa638343592bdeb5ec5236:server/seeds/cpu.json
   }
 ]
