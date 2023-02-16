@@ -1,0 +1,97 @@
+ [
+   {
+    "name": "i9-13900ks",
+    "brand": "Intel",
+    "Price": "730"
+  },
+  {
+    "name": "i9-13900KF",
+    "brand": "Intel",
+    "Price": "520"
+  },
+  {
+    "name": "i9-13900k",
+    "brand": "Intel",
+    "Price": "540"
+  },
+  {
+    "name": "i7-13700k",
+    "brand": "Intel",
+    "Price": "418"
+  },
+  {
+    "name": "17-13700KF",
+    "brand": "Intel",
+    "Price": "394"
+  },
+  {
+    "name": "i9-3900f",
+    "brand": "Intel",
+    "Price": "568"
+  },
+  {
+    "name": "i5-13600KF",
+    "brand": "Intel",
+    "Price": "297"
+  },
+  {
+    "name": "i5-13600K",
+    "brand": "Intel",
+    "Price": "300"
+  },
+  {
+    "name": "i7-13700F",
+    "brand": "Intel",
+    "Price": "380"
+  },
+  {
+    "name": "i7-13700",
+    "brand": "Intel",
+    "Price": "399"
+  },
+  {
+    "name": "Ryzen 9 7950x",
+    "brand": "AMD",
+    "Price": "560"
+  },
+   {
+    "name": "Ryzen 9 7900x",
+    "brand": "AMD",
+    "Price": "384"
+  },
+   {
+    "name": "Ryzen 5 7600x",
+    "brand": "AMD",
+    "Price": "240"
+  } ,
+  {
+    "name": "Ryzen 9 7900",
+    "brand": "AMD",
+    "Price": "420"
+  },
+   {
+    "name": "Ryzen 7 7700",
+    "brand": "AMD",
+    "Price": "344"
+  },
+   {
+    "name": "Ryzen 5 7600",
+    "brand": "AMD",
+    "Price": "244"
+  },
+   {
+    "name": "Ryzen 7 5800x3D",
+    "brand": "AMD",
+    "Price": "323"
+  },
+   {
+    "name": "Ryzen 9 5950x",
+    "brand": "AMD",
+    "Price": "500"
+  },
+   {
+    "name": "Ryzen 9 5900X",
+    "brand": "AMD",
+    "Price": "340"
+  }
+]
