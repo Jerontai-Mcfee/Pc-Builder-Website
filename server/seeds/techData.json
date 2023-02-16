@@ -93,18 +93,5 @@
     "name": "Ryzen 9 5900X",
     "brand": "AMD",
     "Price": "340"
-<<<<<<< HEAD:server/seeds/techData.json
-  },
-   {
-    "name": "Ryzen 7 ",
-    "brand": "AMD",
-    "Price": "200"
-  },
-  {
-    "name": "",
-    "brand": "nividia",
-    "Price": "200"
-=======
->>>>>>> d28b773e58170e8b24fa638343592bdeb5ec5236:server/seeds/cpu.json
   }
 ]
