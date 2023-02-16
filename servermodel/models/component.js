@@ -124,7 +124,7 @@ const psuSchema = new mongoose.Schema({
         type: String,
         required: true
     },
-    EffcienyRating: {
+    EfficiencyRating: {
         type: String,
         required: true
     },
