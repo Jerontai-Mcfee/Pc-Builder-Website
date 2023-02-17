@@ -1,5 +1,7 @@
 import React from 'react'
 
+
+
 const App = () => {
 
   return (
@@ -9,9 +11,6 @@ const App = () => {
         <Route path="/profile/:id/edit">
           <CommentsEdit />
         </Route> 
-        <Route path="/Components">
-          <DrinksIndex />
-        </Route>
         <Route path="/register">
           <Register />
         </Route>
