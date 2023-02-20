@@ -6,6 +6,7 @@ import { Contact } from "./pages/contact";
 import { Cart } from "./pages/cart/cart";
 import { ShopContextProvider } from "./context/shop-context";
 import {Footer} from './components/Footer';
+   
 
 function App() {
   return (
