@@ -1,183 +1,201 @@
 [
     {
-     "name":" Corsair Vengeance LPX DDR4 3200 C16 2x8GB",
-     "brand":"Corsair",
-     "type":"DDR4",
-     "capacity":"16GB",
-     "speed":"3200",
-     "price":"47"
-
-    },
-     {
-     "name":"Corsair Vengeance LPX DDR4 3000 C15 2x8GB",
-     "brand":"Corsair",
-     "type":"DDR4",
-     "capacity":"16GB",
-     "speed":"3000",
-     "price":"48"
-
-    },
-     {
-     "name":"G.SKILL Trident Z DDR4 3200 C14 4x16GB",
-     "brand":"G.SKILL",
-     "type":"DDR4",
-     "capacity":"64GB",
-     "speed":"3200",
-     "price":"417"
-
-    },
-    {
-     "name":"Corsair Vengeance LPX DDR4 2666 C16 2x8GB",
-     "brand":"Corsair",
-     "type":"DDR4",
-     "capacity":"16GB",
-     "speed":"2666",
-     "price":"50"
-
-    },
-    {
-     "name":"Corsair Vengeance RGB PRO DDR4 3200 C15 2x8GB",
-     "brand":"Corsair",
-     "type":"DDR4",
-     "capacity":"16GB",
-     "speed":"3200",
-     "price":"70"
-
-    },
-    {
-     "name":"HyperX Fury DDR4 2400 c15 2x8GB",
-     "brand":"HyperX",
-     "type":"DDR4",
-     "capacity":"16GB",
-     "speed":"2400",
-     "price":"299"
-
-    },
-     {
-     "name":"Corsair Dominator DDR4 3000 C15 4x16GB",
-     "brand":"Corsair",
-     "type":"DDR4",
-     "capacity":"64GB",
-     "speed":"3000",
-     "price":"530"
-
-    },
-    {
-     "name":"Crucial Ballistix Sport LT DDR4 2400 C16 2x8GB",
-     "brand":"Crucial",
-     "type":"DDR4",
-     "capacity":"16GB",
-     "speed":"2400",
-     "price":"118"
-
-    },
-    {
-     "name":"G.SKILL Flare X DDR4 3200 C14 2x8GB",
-     "brand":"G.SKILL",
-     "type":"DDR4",
-     "capacity":"16GB",
-     "speed":"3200",
-     "price":"80"
-
-    },
-     {
-     "name":"G.SKILL Trident Z DDR4 3600 C17 2x8GB",
-     "brand":"G.SKILL",
-     "type":"DDR4",
-     "capacity":"16GB",
-     "speed":"3600",
-     "price":"106"
-
-    },
-    {
-     "name":"CORSAIR Vengeance DDR5 5600 2x16GB",
-     "brand":"Corsair",
-     "type":"DDR5",
-     "capacity":"32GB",
-     "speed":"5600",
-     "price":"224"
-
-    },
-    {
-     "name":"G.Skill Trident Z5 RGB Series 32GB (2 x 16GB) DDR5 6000 ",
-     "brand":"G.SKILL",
-     "type":"DDR5",
-     "capacity":"32GB",
-     "speed":"6000",
-     "price":"180"
-
-    },
-    {
-     "name":"Corsair Dominator Platinum RGB DDR5 32GB (2x16GB) 5200MHz C40",
-     "brand":"Corsair",
-     "type":"DDR5",
-     "capacity":"32GB",
-     "speed":"5200",
-     "price":"269"
-
-    },
-    {
-     "name":"Corsair Vengeance RGB DDR5 32GB (2x16GB) 5200MHz ",
-     "brand":"Corsair",
-     "type":"DDR5",
-     "capacity":"32GB",
-     "speed":"5200",
-     "price":"224"
-
-    },
-    {
-     "name":"XPG Lancer DDR5 RGB 5600MHz 32GB (2x16GB) CL36 ",
-     "brand":"XPG",
-     "type":"DDR5",
-     "capacity":"32GB",
-     "speed":"5600",
-     "price":"190"
-
-    },
-    {
-     "name":"G.Skill Trident Z5 RGB Series 32GB (2 x 16GB)DDR5 6400 CL32 ",
-     "brand":"G.SKILL",
-     "type":"DDR5",
-     "capacity":"32GB",
-     "speed":"6400",
-     "price":"220"
-
-    },
-     {
-     "name":"G.Skill RipJaws S5 Series (Intel XMP) 32GB (2 x 16GB) 288-Pin SDRAM DDR5 6000 CL36",
-     "brand":"G.SKILL",
-     "type":"DDR5",
-     "capacity":"32GB",
-     "speed":"6000",
-     "price":"150"
-
-    },
-     {
-     "name":"Corsair Vengeance RGB DDR5 32GB (2x16GB) 6000MHz C36 ",
-     "brand":"Corsair",
-     "type":"DDR5",
-     "capacity":"32GB",
-     "speed":"6000",
-     "price":"260"
-
-    },
-    {
-     "name":"G.Skill Trident Z5 RGB Series  64GB (2 x 32GB) DDR5 6400 CL32",
-     "brand":"G.SKILL",
-     "type":"DDR5",
-     "capacity":"64GB",
-     "speed":"6400",
-     "price":"409"
-
-    },
-    {
-     "name":"TEAMGROUP T-Force Delta RGB DDR5 Ram 32GB Kit (2x16GB) 7200MHz  CL34 ",
-     "brand":"Teamgroup",
-     "type":"DDR5",
-     "capacity":"32GB",
-     "speed":"7200",
-     "price":"399"
-
-    }
-
+        "productName":"Corsair Vengeance LPX DDR4 3200 C16 2x8GB",
+        "brand":"Corsair",
+        "type":"DDR4",
+        "capacity":"16GB",
+        "speed":"3200",
+        "price":"47",
+        "productImage":"https://www.corsair.com/medias/sys_master/images/images/h12/hc6/8847631450142/-CMK16GX4M2B3200C16-Gallery-VENG-LPX-BLK-00.png"
+       
+       },
+        {
+        "productName":"Corsair Vengeance LPX DDR4 3000 C15 2x8GB",
+        "brand":"Corsair",
+        "type":"DDR4",
+        "capacity":"16GB",
+        "speed":"3000",
+        "price":"48",
+        "productImage":"https://www.corsair.com/medias/sys_master/images/images/hc1/h8d/8845728743454/-CMK16GX4M2B3000C15-Gallery-VENG-LPX-BLK-00.png"
+       
+       },
+        {
+        "productName":"G.SKILL Trident Z DDR4 3200 C14 4x16GB",
+        "brand":"G.SKILL",
+        "type":"DDR4",
+        "capacity":"64GB",
+        "speed":"3200",
+        "price":"417",
+        "productImage":"https://i5.walmartimages.com/asr/b0c7eb38-1bea-4494-9770-5ea8e274dd7c_1.35503472aa6913bc6a42e917a192c6c4.jpeg"
+       
+       },
+       {
+        "productName":"Corsair Vengeance LPX DDR4 2666 C16 2x8GB",
+        "brand":"Corsair",
+        "type":"DDR4",
+        "capacity":"16GB",
+        "speed":"2666",
+        "price":"50",
+        "productImage":"https://www.corsair.com/medias/sys_master/images/images/hab/h06/8843725570078/-CMK16GX4M2A2666C16-Gallery-VENG-LPX-BLK-00.png"
+       
+       },
+       {
+        "productName":"Corsair Vengeance RGB PRO DDR4 3200 C15 2x8GB",
+        "brand":"Corsair",
+        "type":"DDR4",
+        "capacity":"16GB",
+        "speed":"3200",
+        "price":"70",
+        "productImage":"https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/91B-Tqxo+PL.jpg"
+       
+       },
+       {
+        "productName":"HyperX Fury DDR4 2400 c15 2x8GB",
+        "brand":"HyperX",
+        "type":"DDR4",
+        "capacity":"16GB",
+        "speed":"2400",
+        "price":"299",
+        "productImage":"https://c1.neweggimages.com/ProductImage/20-104-680-02.jpg"
+       
+       },
+        {
+        "productName":"Corsair Dominator DDR4 3000 C15 4x16GB",
+        "brand":"Corsair",
+        "type":"DDR4",
+        "capacity":"64GB",
+        "speed":"3000",
+        "price":"530",
+        "productImage":"https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/41qxZQSjQ3L._AC_.jpg"
+       
+       },
+       {
+        "productName":"Crucial Ballistix Sport LT DDR4 2400 C16 2x8GB",
+        "brand":"Crucial",
+        "type":"DDR4",
+        "capacity":"16GB",
+        "speed":"2400",
+        "price":"118",
+        "productImage":"https://c1.neweggimages.com/ProductImage/20-148-985-V01.jpg"
+       
+       },
+       {
+        "productName":"G.SKILL Flare X DDR4 3200 C14 2x8GB",
+        "brand":"G.SKILL",
+        "type":"DDR4",
+        "capacity":"16GB",
+        "speed":"3200",
+        "price":"80",
+        "productImage":"https://c1.neweggimages.com/ProductImage/20-232-530-Z01.jpg"
+       
+       },
+        {
+        "productName":"G.SKILL Trident Z DDR4 3600 C17 2x8GB",
+        "brand":"G.SKILL",
+        "type":"DDR4",
+        "capacity":"16GB",
+        "speed":"3600",
+        "price":"106",
+        "productImage":"https://static.userbenchmark.com/resources/static/ram/GSKILL-Trident-Z-2x.jpg"
+       
+       },
+       {
+        "productName":"CORSAIR Vengeance DDR5 5600 2x16GB",
+        "brand":"Corsair",
+        "type":"DDR5",
+        "capacity":"32GB",
+        "speed":"5600",
+        "price":"224",
+        "productImage":"https://www.corsair.com/medias/sys_master/images/images/hb2/h8c/10243305963550/vengeance-ddr5-blk-config/Gallery/Vengeance-DDR5-2UP-16GB-BLACK_01/-vengeance-ddr5-blk-config-Gallery-Vengeance-DDR5-2UP-16GB-BLACK-01.png_515Wx515H"
+       
+       },
+       {
+        "productName":"G.Skill Trident Z5 RGB Series 32GB (2 x 16GB) DDR5 6000",
+        "brand":"G.SKILL",
+        "type":"DDR5",
+        "capacity":"32GB",
+        "speed":"6000",
+        "price":"180",
+        "productImage":"https://c1.neweggimages.com/ProductImage/20-374-351-10.png"
+       
+       },
+       {
+        "productName":"Corsair Dominator Platinum RGB DDR5 32GB (2x16GB) 5200MHz C40",
+        "brand":"Corsair",
+        "type":"DDR5",
+        "capacity":"32GB",
+        "speed":"5200",
+        "price":"269",
+        "productImage":"https://www.corsair.com/medias/sys_master/images/images/hcb/h78/9890322087966/CMT32GX5M2B5200C38/Gallery/DOMINATOR_RGB_PLATINUM_BLACK_DDR5_01/-CMT32GX5M2B5200C38-Gallery-DOMINATOR-RGB-PLATINUM-BLACK-DDR5-01.png_515Wx515H"
+       
+       },
+       {
+        "productName":"Corsair Vengeance RGB DDR5 32GB (2x16GB) 5200MHz",
+        "brand":"Corsair",
+        "type":"DDR5",
+        "capacity":"32GB",
+        "speed":"5200",
+        "price":"224",
+        "productImage":"https://www.corsair.com/medias/sys_master/images/images/hcd/hfe/10239812173854/vengeance-rgb-ddr5-blk-config/Gallery/Vengeance-RGB-DDR5-2UP-BLACK_01/-vengeance-rgb-ddr5-blk-config-Gallery-Vengeance-RGB-DDR5-2UP-BLACK-01.png_515Wx515H"
+       
+       },
+       {
+        "productName":"XPG Lancer DDR5 RGB 5600MHz 32GB (2x16GB) CL36",
+        "brand":"XPG",
+        "type":"DDR5",
+        "capacity":"32GB",
+        "speed":"5600",
+        "price":"190",
+        "productImage":"https://cdn11.bigcommerce.com/s-9w92e86dd0/images/stencil/1280x1280/products/971/8618/lancer_rgb_blk__09037.1671340430.jpg?c=1"
+       
+       },
+       {
+        "productName":"G.Skill Trident Z5 RGB Series 32GB (2 x 16GB)DDR5 6400 CL32",
+        "brand":"G.SKILL",
+        "type":"DDR5",
+        "capacity":"32GB",
+        "speed":"6400",
+        "price":"220",
+        "productImage":"https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/51c+p6RY+AL.jpg"
+       
+       },
+        {
+        "productName":"G.Skill RipJaws S5 Series (Intel XMP) 32GB (2 x 16GB) 288-Pin SDRAM DDR5 6000 CL36",
+        "brand":"G.SKILL",
+        "type":"DDR5",
+        "capacity":"32GB",
+        "speed":"6000",
+        "price":"150",
+        "productImage":"https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/61fsoD+5vhL.jpg"
+       
+       },
+        {
+        "productName":"Corsair Vengeance RGB DDR5 32GB (2x16GB) 6000MHz C36",
+        "brand":"Corsair",
+        "type":"DDR5",
+        "capacity":"32GB",
+        "speed":"6000",
+        "price":"260",
+        "productImage":"https://www.corsair.com/medias/sys_master/images/images/hcd/hfe/10239812173854/vengeance-rgb-ddr5-blk-config/Gallery/Vengeance-RGB-DDR5-2UP-BLACK_01/-vengeance-rgb-ddr5-blk-config-Gallery-Vengeance-RGB-DDR5-2UP-BLACK-01.png_515Wx515H"
+       
+       },
+       {
+        "productName":"G.Skill Trident Z5 RGB Series  64GB (2 x 32GB) DDR5 6400 CL32",
+        "brand":"G.SKILL",
+        "type":"DDR5",
+        "capacity":"64GB",
+        "speed":"6400",
+        "price":"409",
+        "productImage":"https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/51c+p6RY+AL.jpg"
+       
+       },
+       {
+        "productName":"TEAMGROUP T-Force Delta RGB DDR5 Ram 32GB Kit (2x16GB) 7200MHz CL34",
+        "brand":"Teamgroup",
+        "type":"DDR5",
+        "capacity":"32GB",
+        "speed":"7200",
+        "price":"399",
+        "productImage":"https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81ov4cFmdaL.jpg"
+       }
 ]
