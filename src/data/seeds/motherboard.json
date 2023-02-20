@@ -1,0 +1,122 @@
+[
+    {
+        "name":"ASUS ROG Crosshair X670E Extreme",
+        "brand":"ASUS ROG",
+        "price":"1,003",
+        "chipset":"LGA 1718"
+    },
+     {
+        "name":"Asus TUF GAMING X570-PLUS (WI-FI)",
+        "brand":"ASUS TUF",
+        "price":"209",
+        "chipset":"AM4"
+    },
+     {
+        "name":"MSI B550-A PRO",
+        "brand":"MSI",
+        "price":"170",
+        "chipset":"AM4"
+    },
+     {
+        "name":"MSI MAG B660 TOMAHAWK WIFI DDR4",
+        "brand":"MSI",
+        "price":"280",
+        "chipset":"LGA1700"
+    },
+     {
+        "name":"Asus ROG STRIX Z690-A GAMING WIFI D4",
+        "brand":"ASUS ROG",
+        "price":"310",
+        "chipset":"LGA1700"
+    },
+     {
+        "name":"Gigabyte Z790 AORUS ELITE AX",
+        "brand":"Gigabyte",
+        "price":"260",
+        "chipset":"LGA1700"
+    },
+     {
+        "name":"Gigabyte B650 AORUS ELITE AX",
+        "brand":"Gigabyte",
+        "price":"230",
+        "chipset":"AM5"
+    },
+     {
+        "name":"MSI PRO Z690-A",
+        "brand":"MSI",
+        "price":"210",
+        "chipset":"210"
+    },
+     {
+        "name":"Asus ROG STRIX Z690-E GAMING WIFI",
+        "brand":"ASUS ROG",
+        "price":"310",
+        "chipset":"LGA1700"
+    },
+     {
+        "name":"Asus ROG STRIX B550-F GAMING WIFI II",
+        "brand":"ASUS ROG",
+        "price":"185",
+        "chipset":"AM4"
+    },
+     {
+        "name":"MSI MPG B550 GAMING PLUS",
+        "brand":"MSI",
+        "price":"160",
+        "chipset":"AM4"
+    },
+     {
+        "name":"MSI B550 GAMING GEN3",
+        "brand":"MSI",
+        "price":"120",
+        "chipset":"AM4"
+    },
+     {
+        "name":"Asus TUF GAMING Z690-PLUS WIFI D4",
+        "brand":"ASUS TUF",
+        "price":"250",
+        "chipset":"LGA1700"
+    },
+     {
+        "name":"Gigabyte B550 AORUS ELITE AX V2",
+        "brand":"Gigabyte",
+        "price":"160",
+        "chipset":"AM4"
+    },
+     {
+        "name":"Asus ROG MAXIMUS Z790 HERO",
+        "brand":"ASUS ROG",
+        "price":"630",
+        "chipset":"LGA1700"
+    },
+     {
+        "name":"MSI B450 Gaming Plus MAX",
+        "brand":"MSI",
+        "price":"100",
+        "chipset":"AM4"
+    },
+     {
+        "name":"Asus PRIME B660-PLUS D4",
+        "brand":"ASUS",
+        "price":"130",
+        "chipset":"LGA1700"
+    },
+     {
+        "name":"Asus PRIME B550-PLUS",
+        "brand":"ASUS",
+        "price":"140",
+        "chipset":"AM4"
+    },
+     {
+        "name":"MSI MAG X570S TOMAHAWK MAX WIFI",
+        "brand":"MSI",
+        "price":"230",
+        "chipset":"AM4"
+    },
+     {
+        "name":"Asus TUF GAMING Z690-PLUS WIFI",
+        "brand":"ASUS TUF",
+        "price":"250",
+        "chipset":"LGA1700"
+    }
+]
