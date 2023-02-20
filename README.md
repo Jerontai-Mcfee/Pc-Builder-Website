@@ -1,57 +1,70 @@
-# pc-builder-website
-Project 3
+# Getting Started with Create React App
 
-# List of things that need to be done
-Front-end
--no data involved, just HTML pages under pages folder in src
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Back-end
--create models
--
+## Available Scripts
 
-General
--determine and delete extra unnecessary files from mini project
+In the project directory, you can run:
 
-# User Story
-As a PC enthusiast, I want to be able to access an e-commerce website where I can easily search and buy PC parts with price filters so that I can easily upgrade my PC and shop for spare parts.
+### `npm start`
 
-## Description
-BRAINSTORMING IDEAS: tech comparison with the dropdown menu
-somehow utilize the dropdown menus already provided
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-## Acceptance Criteria
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
 
-Your group will use everything you’ve learned throughout this course to create a MERN stack single-page application that works with real-world data to solve a real-world challenge, with a focus on data and user demand. This project will provide you with the best opportunity to demonstrate your problem-solving skills, which employers will want to see during interviews. Once again, the user story and acceptance criteria will depend on the project that you create, but your project must fulfill the following requirements:
+### `npm test`
 
-* Use React for the front end.
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-* Use GraphQL with a Node.js and Express.js server.
+### `npm run build`
 
-* Use MongoDB and the Mongoose ODM for the database.
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-* Use queries and mutations for retrieving, adding, updating, and deleting data.
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-* Be deployed using Heroku (with data).
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-* Have a polished UI.
+### `npm run eject`
 
-* Be responsive.
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-* Be interactive (i.e., accept and respond to user input).
+If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-* Include authentication (JWT).
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-* Protect sensitive API key information on the server.
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-* Have a clean repository that meets quality coding standards (file structure, naming conventions, best practices for class and id naming conventions, indentation, high-quality comments, etc.).
+## Learn More
 
-* Have a high-quality README (with unique name, description, technologies used, screenshot, and link to deployed application).
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
+To learn React, check out the [React documentation](https://reactjs.org/).
 
-## Contributors
-Je'Rontai Mcfee<br>
-Kevin Roman<br>
-Andrew Connally<br>
-Brandon Rodriguez<br>
+### Code Splitting
 
-## Live Link to Heroku Deployment
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)

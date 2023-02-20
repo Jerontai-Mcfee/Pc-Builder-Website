@@ -1,0 +1,142 @@
+[
+    {
+        "productName":"ASUS ROG Crosshair X670E Extreme",
+        "brand":"ASUS ROG",
+        "price":"1,003",
+        "chipset":"LGA 1718",
+        "productImage": "https://www.bhphotovideo.com/images/images500x500/asus_rog_crosshair_x670e_extreme_1664308150_1727397.jpg"
+    },
+     {
+        "productName":"Asus TUF GAMING X570-PLUS (WI-FI)",
+        "brand":"ASUS TUF",
+        "price":"209",
+        "chipset":"AM4",
+        "productImage": "https://www.bhphotovideo.com/images/images500x500/asus_tuf_gaming_x670e_plus_wifi_1664308150_1726102.jpg"
+    },
+     {
+        "productName":"MSI B550-A PRO",
+        "brand":"MSI",
+        "price":"170",
+        "chipset":"AM4",
+        "productImage": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/91nx+MhjjwL.jpg"
+    },
+     {
+        "productName":"MSI MAG B660 TOMAHAWK WIFI DDR4",
+        "brand":"MSI",
+        "price":"280",
+        "chipset":"LGA1700",
+        "productImage": "https://m.media-amazon.com/images/I/91mL8dacOxL._AC_SX679_.jpg"
+    },
+     {
+        "productName":"Asus ROG STRIX Z690-A GAMING WIFI D4",
+        "brand":"ASUS ROG",
+        "price":"310",
+        "chipset":"LGA1700",
+        "productImage": "https://m.media-amazon.com/images/I/81qmjuAD-UL._AC_SX679_.jpg"
+    },
+     {
+        "productName":"Gigabyte Z790 AORUS ELITE AX",
+        "brand":"Gigabyte",
+        "price":"260",
+        "chipset":"LGA1700",
+        "productImage": "https://m.media-amazon.com/images/I/81a48Z1GciL._AC_SX679_.jpg"
+    },
+     {
+        "productName":"Gigabyte B650 AORUS ELITE AX",
+        "brand":"Gigabyte",
+        "price":"230",
+        "chipset":"AM5",
+        "productImage": "https://m.media-amazon.com/images/I/81LJcmxuEPL._AC_SX679_.jpg"
+    },
+     {
+        "productName":"MSI PRO Z690-A",
+        "brand":"MSI",
+        "price":"210",
+        "chipset":"210",
+        "productImage": "https://m.media-amazon.com/images/I/91-2FBoN8sL.jpg"
+    },
+     {
+        "productName":"Asus ROG STRIX Z690-E GAMING WIFI",
+        "brand":"ASUS ROG",
+        "price":"310",
+        "chipset":"LGA1700",
+        "productImage": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81hQTzzTLrL.jpg"
+    },
+     {
+        "productName":"Asus ROG STRIX B550-F GAMING WIFI II",
+        "brand":"ASUS ROG",
+        "price":"185",
+        "chipset":"AM4",
+        "productImage": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81DFmg2k7cL.jpg"
+    },
+     {
+        "productName":"MSI MPG B550 GAMING PLUS",
+        "brand":"MSI",
+        "price":"160",
+        "chipset":"AM4",
+        "productImage": "https://m.media-amazon.com/images/I/91oChAepmRL.jpg"
+    },
+     {
+        "productName":"MSI B550 GAMING GEN3",
+        "brand":"MSI",
+        "price":"120",
+        "chipset":"AM4",
+        "productImage": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81TgA99mfnL.jpg"
+    },
+     {
+        "productName":"Asus TUF GAMING Z690-PLUS WIFI D4",
+        "brand":"ASUS TUF",
+        "price":"250",
+        "chipset":"LGA1700",
+        "productImage": "https://m.media-amazon.com/images/I/819xjtWN4AL._AC_SX679_.jpg"
+    },
+     {
+        "productName":"Gigabyte B550 AORUS ELITE AX V2",
+        "brand":"Gigabyte",
+        "price":"160",
+        "chipset":"AM4",
+        "productImage": "https://c1.neweggimages.com/ProductImage/13-145-248-V01.jpg"
+    },
+     {
+        "productName":"Asus ROG MAXIMUS Z790 HERO",
+        "brand":"ASUS ROG",
+        "price":"630",
+        "chipset":"LGA1700",
+        "productImage": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6523/6523718cv16d.jpg"
+    },
+     {
+        "productName":"MSI B450 Gaming Plus MAX",
+        "brand":"MSI",
+        "price":"100",
+        "chipset":"AM4",
+        "productImage": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71LwU6qgv2L.jpg"
+    },
+     {
+        "productName":"Asus PRIME B660-PLUS D4",
+        "brand":"ASUS",
+        "price":"130",
+        "chipset":"LGA1700",
+        "productImage": "https://m.media-amazon.com/images/I/81ZFlUz0rTL.jpg"
+    },
+     {
+        "productName":"Asus PRIME B550-PLUS",
+        "brand":"ASUS",
+        "price":"140",
+        "chipset":"AM4",
+        "productImage": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/91bMWZiA3SL.jpg"
+    },
+     {
+        "productName":"MSI MAG X570S TOMAHAWK MAX WIFI",
+        "brand":"MSI",
+        "price":"230",
+        "chipset":"AM4",
+        "productImage": "https://m.media-amazon.com/images/I/91Tnf2DqWHL._AC_SX679_.jpg"
+    },
+     {
+        "productName":"Asus TUF GAMING Z690-PLUS WIFI",
+        "brand":"ASUS TUF",
+        "price":"250",
+        "chipset":"LGA1700",
+        "productImage": "https://c1.neweggimages.com/ProductImage/13-119-554-V01.jpg"
+    }
+]

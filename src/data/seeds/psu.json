@@ -1,0 +1,122 @@
+[
+    {
+        "productName": "CORSAIR RM850x (2021)",
+        "brand":"CORSAIR",
+        "price":"130",
+        "Watt":"850",
+        "EfficiencyRating":"80+ Gold",
+        "Modular":"Full",
+        "type":"ATX",
+        "productImage":"https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/632808_225219_05_package_comping.jpg"
+    },
+     {
+        "productName": "Corsair RM750x (2021)",
+        "brand":"CORSAIR",
+        "price":"140",
+        "Watt":"750",
+        "EfficiencyRating":"80+Gold",
+        "Modular":"Full",
+        "type":"ATX",
+        "productImage":"https://cdn.mos.cms.futurecdn.net/5jnS7P7dB6RDYGLkY6BKr5.jpg"
+    },
+     {
+        "productName": "Corsair RM1000x (2021)",
+        "brand":"CORSAIR",
+        "price":"190",
+        "Watt":"1000",
+        "EfficiencyRating":"80+Gold",
+        "Modular":"Full",
+        "type":"ATX",
+        "productImage":"https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/632809_225185_04_package_comping.jpg"
+    },
+     {
+        "productName": "Corsair RM650",
+        "brand":"CORSAIR",
+        "price":"95",
+        "Watt":"650",
+        "EfficiencyRating":"80+Gold",
+        "Modular":"Full",
+        "type":"ATX",
+        "productImage":"https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/632803_314146_04_package_comping.jpg"
+    },
+     {
+        "productName": "Thermaltake Toughpower GX2",
+        "brand":"Thermaltake",
+        "price":"60",
+        "Watt":"600",
+        "EfficiencyRating":"80+Gold",
+        "Modular":"NO",
+        "type":"ATX",
+        "productImage":"https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/630801_230086_04_package_comping.jpg"
+    },
+     {
+        "productName": "Corsair RM850",
+        "brand":"CORSAIR",
+        "price":"140",
+        "Watt":"850",
+        "EfficiencyRating":"80+Gold",
+        "Modular":"Full",
+        "type":"ATX",
+        "productImage":"https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/637343_314187_04_package_comping.jpg"
+    },
+     {
+        "productName": "Thermaltake Smart",
+        "brand":"Thermaltake",
+        "price":"40",
+        "Watt":"500",
+        "EfficiencyRating":"80+",
+        "Modular":"NO",
+        "type":"ATX",
+        "productImage":"https://m.media-amazon.com/images/I/71GNnNSyIrL.jpg"
+    },
+     {
+        "productName": "EVGA SuperNOVA 750 GT",
+        "brand":"EVGA",
+        "price":"130",
+        "Watt":"750",
+        "EfficiencyRating":"80+Gold",
+        "Modular":"Full",
+        "type":"ATX",
+        "productImage":"https://images.evga.com/products/gallery/png/220-GT-0750-Y1_XL_8.png"
+    },
+     {
+        "productName": "EVGA SuperNOVA 650 GT",
+        "brand":"EVGA",
+        "price":"110",
+        "Watt":"650",
+        "EfficiencyRating":"80+Gold",
+        "Modular":"Full",
+        "type":"ATX",
+        "productImage":"https://images.evga.com/products/gallery/png/220-GT-0650-Y1_XL_8.png"
+    },
+     {
+        "productName": "Cooler Master V850 SFX GOLD",
+        "brand":"Cooler Master",
+        "price":"145",
+        "Watt":"850",
+        "EfficiencyRating":"80+Gold",
+        "Modular":"Full",
+        "type":"SFX",
+        "productImage":"https://m.media-amazon.com/images/I/816uztcVLkS.jpg"
+    },
+    {
+        "productName":"Thermaltake Smart BM2",
+        "brand":"Thermaltake",
+        "price":"45",
+        "Watt":"550",
+        "EfficiencyRating":"80+Bronze",
+        "Modular":"semi",
+        "type":"ATX",
+        "productImage":"https://med.greatecno.com/150229/pc-power-supply-thermaltake-smart-bm2-450w-80.jpg"
+    },
+    {
+        "productName":"Asus ROG THOR 1600T Gaming",
+        "brand":"ASUS ROG",
+        "price":"700",
+        "Watt":"1600",
+        "EfficiencyRating":"80+platinum",
+        "Modular":"full",
+        "type":"ATX",
+        "productImage":"https://c1.neweggimages.com/ProductImage/AUNCS2206150L52VM1E.jpg"
+    }
+]
