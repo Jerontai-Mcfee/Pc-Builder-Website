@@ -49,7 +49,7 @@ Your group will use everything you’ve learned throughout this course to create
 
 
 ## Contributors
-Jerontai Mcfee<br>
+Je'Rontai Mcfee<br>
 Kevin Roman<br>
 Andrew Connally<br>
 Brandon Rodriguez<br>
