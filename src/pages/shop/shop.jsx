@@ -5,7 +5,7 @@ import "./shop.css";
 
 // this is bringing all the data files in right now. access different types by saying partsData.typeOfProductYouWant 
 // this needs to be coming from the database eventually which means fixing the server structure
-import partsData from '../../data/seeds'
+import partsData, { gpu, cpu, motherboard, cases, coolers, ram, psu, storage } from '../../data/seeds'
 
 export const Shop = () => {
   const [view, setView] = useState("All")
@@ -29,8 +29,68 @@ export const Shop = () => {
     } else if (view == "CPU") {
       return (
         <>
-          {PRODUCTS.map(cpu => (
+          {partsData.cpu.map(cpu => (
             <Product data={cpu}>
+
+            </Product>
+          ))}
+        </>
+      )
+    } else if (view == "MOTHERBOARD") {
+      return (
+        <>
+          {partsData.motherboard.map(motherboard => (
+            <Product data={motherboard}>
+
+            </Product>
+          ))}
+        </>
+      )
+    } else if (view == "CASES") {
+      return (
+        <>
+          {partsData.cases.map(cases => (
+            <Product data={cases}>
+
+            </Product>
+          ))}
+        </>
+      )
+    } else if (view == "COOLERS") {
+      return (
+        <>
+          {partsData.coolers.map(coolers => (
+            <Product data={coolers}>
+
+            </Product>
+          ))}
+        </>
+      )
+    } else if (view == "RAM") {
+      return (
+        <>
+          {partsData.ram.map(ram => (
+            <Product data={ram}>
+
+            </Product>
+          ))}
+        </>
+      )
+    } else if (view == "PSU") {
+      return (
+        <>
+          {partsData.psu.map(psu => (
+            <Product data={psu}>
+
+            </Product>
+          ))}
+        </>
+      )
+    } else if (view == "STORAGE") {
+      return (
+        <>
+          {partsData.storage.map(storage => (
+            <Product data={storage}>
 
             </Product>
           ))}
@@ -46,6 +106,13 @@ export const Shop = () => {
       <button onClick={handleClick}>PARTS</button>
       <button onClick={handleClick}>CPU</button>
       <button onClick={handleClick}>GPU</button>
+      <button onClick={handleClick}>MOTHERBOARD</button>
+      <button onClick={handleClick}>CASES</button>
+      <button onClick={handleClick}>COOLERS</button>
+      <button onClick={handleClick}>RAM</button>
+      <button onClick={handleClick}>PSU</button>
+      <button onClick={handleClick}>STORAGE</button>
+
       <div className='shopTitle'>
         <h1>Old Egg</h1>
       </div>
