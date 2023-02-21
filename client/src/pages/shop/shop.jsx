@@ -8,7 +8,7 @@ import "./shop.css";
 import partsData, { gpu, cpu, motherboard, cases, coolers, ram, psu, storage } from '../../data/seeds'
 
 export const Shop = () => {
-  const [view, setView] = useState("All")
+  const [view, setView] = useState("PARTS")
 
   const handleClick = (event) => {
     setView(event.target.textContent)
@@ -120,7 +120,7 @@ export const Shop = () => {
         {/* Ternary operator for checking if we are viewing ALL products or a single product
         if we are seeing All then the map from line 56 to 66 shows. Add more maps to add more products*/}
         {
-          view === "All" ?
+          view === "PARTS" ?
           (
             <>
             {PRODUCTS.map((product) => (

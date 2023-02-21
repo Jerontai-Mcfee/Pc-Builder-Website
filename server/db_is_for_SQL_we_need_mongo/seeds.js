@@ -4,7 +4,7 @@ import mongoose from 'mongoose'
 import { dbURI } from '../config/environment.js'
 
 // component + its corresponding data
-import Component from '../models/component.js'
+import Component from '../models/component.js.js'
 import componentData from './data/components.js'
 
 // user + corresponding userdata
@@ -12,7 +12,7 @@ import User from '../models/user.js'
 import userData from './data/users.js'
 
 // previously shopped component + its data
-import ShoppedComponent from '../models/shoppedComponent.js'
+import ShoppedComponent from '../models/shoppedComponent.js.js'
 import shoppedComponentData from './data/shoppedComponent.js'
 
 
