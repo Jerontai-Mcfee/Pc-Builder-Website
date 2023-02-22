@@ -4,7 +4,7 @@ const db = require('../config/connection');
 const partsData = require('./partsData.json');
 
 db.once('open', async () => {
-  await parts.deleteMany({});
+  // await parts.deleteMany({});
 
   const parts = await part.insertMany(partsData);
 

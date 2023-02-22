@@ -1,7 +1,7 @@
-import mongoose from 'mongoose'
+const mongoose = require('mongoose')
 
 // uses bcrypt for password hashing
-import bcrypt from 'bcrypt'
+const bcrypt = require('bcrypt')
 
 const userModel = new mongoose.Schema({
   username: { type: String, required: true, maxLength: 25, unique: true },
@@ -82,4 +82,4 @@ userModel.methods.validatePassword = function(password) {
 
 
 // exports user model
-export default mongoose.model('User', userModel);
+module.exports =  mongoose.model('User', userModel);

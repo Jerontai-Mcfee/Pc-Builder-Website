@@ -1,4 +1,4 @@
-import mongoose from 'mongoose'
+const mongoose = require('mongoose');
 
 const casesSchema = new mongoose.Schema({
     name: {
@@ -200,4 +200,4 @@ const storageSchema = new mongoose.Schema({
     },
 });
 
-export default mongoose.model('Component', casesSchema, cpuSchema, coolersSchema, gpuSchema, motherboardSchema, psuSchema, ramSchema, storageSchema);
+module.exports = mongoose.model('Component', casesSchema, cpuSchema, coolersSchema, gpuSchema, motherboardSchema, psuSchema, ramSchema, storageSchema);

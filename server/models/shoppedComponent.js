@@ -1,4 +1,4 @@
-import mongoose from 'mongoose'
+const mongoose = require('mongoose');
 
 const shoppedComponentSchema = new mongoose.Schema({
     componentId: {
@@ -19,5 +19,4 @@ const shoppedComponentSchema = new mongoose.Schema({
         required: true
     }
 });
-
-export default mongoose.model('ShoppedComponent', shoppedComponentSchema);
+module.exports = mongoose.model('ShoppedComponent', shoppedComponentSchema);
