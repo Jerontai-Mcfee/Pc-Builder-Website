@@ -4,7 +4,7 @@ import Component from '../models/component.js'
 
 
 // displays all components
-export const getAllDrinks = async (_req, res) => {
+export const getAllParts = async (_req, res) => {
   const components = await Component.find()
   return res.status(200).json(components);
 }
