@@ -1,6 +1,7 @@
 import { createContext, useEffect, useState } from "react";
 import { PRODUCTS } from "../products";
 
+
 export const ShopContext = createContext(null);
 
 const getDefaultCart = () => {
@@ -59,5 +60,3 @@ const addToCart = (itemId) => {
     </ShopContext.Provider>
   );
 };
-
-

@@ -1,0 +1,79 @@
+[
+    { 
+        "productName": "CORSAIR 4000D AIRFLOW",
+        "brand":"Corsair",
+        "price":"95",
+        "tower":"ATX Mid Tower",
+        "productImage":"https://c1.neweggimages.com/ProductImage/11-139-156-V02.jpg"
+    },
+    {
+        "productName": "NZXT H510",
+        "brand":"NZXT",
+        "price":"90",
+        "tower":"ATX Mid Tower",
+        "productImage":"https://nzxt.com/assets/cms/34299/1617970872-h510-white-black-mainw-system.png?auto=format&fit=crop&h=1000&w=1000"
+    },
+    {
+        "productName": "Lian Li 011 Dynamic EVO",
+        "brand":"Lian li",
+        "price":"190",
+        "tower":"ATX Mid Tower",
+        "productImage":"https://m.media-amazon.com/images/I/51f2RW2PA+L._AC_.jpg"
+    },
+    {
+        "productName": "Corsair ICUE 4000x RGB",
+        "brand":"Corsair",
+        "price":"130",
+        "tower":"ATX Mid Tower",
+        "productImage":"https://cwsmgmt.corsair.com/pdp/4000-series/corsair-4000x/images/4000X_BLACK_01300_Color-palette-update.png"
+    },
+    {
+        "productName": "NZXT H510 Flow",
+        "brand":"NZXT",
+        "price":"90",
+        "tower":"ATX Mid Tower",
+        "productImage":"https://nzxt.com/assets/cms/34299/1632172731-h510flowwhite-1.png?auto=format&fit=crop&h=1000&w=1000"
+    },
+    {
+        "productName": "Phanteks Eclipse P300A Mesh",
+        "brand":"Phanteks",
+        "price":"60",
+        "tower":"ATX Mid Tower",
+        "productImage":"https://m.media-amazon.com/images/I/91Gqz3yTwnL.jpg"
+    },
+    {
+        "productName": "Lian Li PC-011 Dynamic",
+        "brand":"Lian li",
+        "price":"140",
+        "tower":"ATX FULL Tower",
+        "productImage":"https://c1.neweggimages.com/ProductImageCompressAll1280/A00V_1316868107147714239f2Q7Ix4aY.jpg"
+    },
+    {
+        "productName": "CORSAIR 5000D AIRFLOW",
+        "brand":"Corsair",
+        "price":"170",
+        "tower":"ATX Mid Tower",
+        "productImage":"https://www.corsair.com/medias/sys_master/images/images/h25/hc4/9659514290206/base-5000d-airflow/Gallery/5000D_AF_WHITE_001/-base-5000d-airflow-Gallery-5000D-AF-WHITE-001.png_515Wx515H"
+    },
+    {
+        "productName": "Phanteks Eclipse G360A",
+        "brand":"Phanteks",
+        "price":"90",
+        "tower":"ATX Mid Tower",
+        "productImage":"https://m.media-amazon.com/images/I/710+HpG7KQL.jpg"
+    },
+    {
+        "productName": "Cooler Maseter MasterBox Q300L",
+        "brand":"cooler master",
+        "price":"70",
+        "tower":"MicroATX Mini Master",
+        "productImage":"https://cdn.coolermaster.com/media/1136/edge-to-edge-side-panel-imageleftorright.png"
+    },
+    {
+        "productName": "Lian Li 011 Dynamic Mini SNow Edition",
+        "brand":"Lian li",
+        "price":"130",
+        "tower":"ATX Mid Tower",
+        "productImage":"https://m.media-amazon.com/images/I/71iwoMQEfoL.jpg"
+    }
+]
