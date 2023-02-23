@@ -31,7 +31,7 @@
   }
   
   .product:hover {
-    transition: 0.3s ease-in;.shopTitle {
+    transition: 0.3s ease-in; 
       margin-top: 100px;
       text-align: center;
       font-size: 40px;
@@ -57,7 +57,7 @@
     }
     
     .product img {
-      width: 200px;
+      width: 300px;
       border: none; /* remove border */
     }
     
@@ -73,7 +73,7 @@
     .addToCartBttn {
       background-color: transparent;
       border: 2px solid rgb(19, 19, 19);
-      min-width: 75px;
+      min-width: 100px;
       padding-left: 10px;
       padding-right: 10px;
       padding-top: 5px;
@@ -101,8 +101,7 @@
       display: flex;
     }
     
-    cursor: pointer;
-  }
+    
   
   .addToCartBttn {
     background-color: transparent;
@@ -136,3 +135,5 @@
     background-color: black;
     color:aliceblue;
   }
+
+  
