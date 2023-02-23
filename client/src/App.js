@@ -1,13 +1,13 @@
 import './App.css';
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import { ApolloClient, ApolloProvider, InMemoryCache } from '@apollo/client';
-import { Navbar } from "./components/navbar";
+import { AppNavbar } from "./components/AppNavbar";
 import { Shop } from "./pages/shop/shop";
-import { Contact } from "./pages/contact";
 import { Cart } from "./pages/cart/cart";
 import Login from "./pages/login/login";
 import { ShopContextProvider } from "./context/shop-context";
 import {Footer} from './components/Footer';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 const client = new ApolloClient({
   uri: '/graphql',
@@ -16,15 +16,17 @@ const client = new ApolloClient({
 
 function App() {
   return (
+  
+
     <ApolloProvider client={client}>
     <div className='App'>
        <ShopContextProvider>
       <Router>
-        <Navbar/>
+        <AppNavbar/>      
         <Routes>
         <Route path="/" element={<Shop />} />
         <Route path="/login" element={<Login />} />
-        <Route path="/contact" element={<Contact />} />
+        
         <Route path="/cart" element={<Cart />} />
           </Routes>
           <Footer />
@@ -32,6 +34,7 @@ function App() {
       </ShopContextProvider>
     </div>
     </ApolloProvider>
+   
     );
 }
 

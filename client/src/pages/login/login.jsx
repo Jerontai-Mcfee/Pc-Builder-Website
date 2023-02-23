@@ -24,10 +24,11 @@ function Login() {
       <div class="form-group">
         <label for="email">Email:</label><br />
         <input
-          class="form-input"
-          type="text"
+          class="input"
+          type="email"
           id="email"
           name="email"
+          placeholder='e.g. alex@example.com ' 
           onChange={onChange}
         />
       </div>
@@ -37,6 +38,7 @@ function Login() {
           class="form-input"
           type="password"
           id="password"
+          placeholder="********"
           name="password"
           onChange={onChange}
         />
@@ -52,15 +54,15 @@ function Login() {
     <form class="form signup-form">
       <div class="form-group">
         <label for="name-signup">Name:</label><br />
-        <input class="form-input" type="text" id="name-signup" />
+        <input class="form-input" type="text"  placeholder='JOHN DOE' id="name-signup" />
       </div>
       <div class="form-group">
         <label for="email-signup">Email:</label><br />
-        <input class="form-input" type="text" id="email-signup" />
+        <input class="form-input" type="text"  placeholder='e.g. alex@example.com '  id="email-signup" />
       </div>
       <div class="form-group">
         <label for="password-signup">Password:</label><br />
-        <input class="form-input" type="password" id="password-signup" />
+        <input class="form-input" type="password" placeholder="********" id="password-signup" />
       </div><br />
       <div class="form-group">
         <button class="btn btn-primary" type="submit">Sign Up</button>
