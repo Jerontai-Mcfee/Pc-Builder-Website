@@ -53,7 +53,7 @@
         "brand": "Intel",
         "Price": "380",
         "category_id":"cpu",
-        "productImage": "https://i.ebayproductImage.com/images/g/x0oAAOSwBSNjUSGL/s-l1600.jpg"
+        "productImage": "https://m.media-amazon.com/images/I/61h4d1FjCWL.jpg"
       },
       {
         "productName": "i7-13700",
@@ -64,7 +64,7 @@
       {
         "productName": "Ryzen 9 7950x",
         "brand": "AMD",
-        "Price": "560",
+        "price": "560",
         "productImage": "https://c1.neweggimages.com/productimage/nb640/19-113-771-09.jpg"
       },
        {
