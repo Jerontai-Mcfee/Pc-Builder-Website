@@ -9,7 +9,7 @@ const db = require('./config/connection');
 const PORT = process.env.PORT || 3001;
 const app = express();
 
-mongoose.connect(process.env.MONGODB_URI || 'mongodb://localhost/thoughtsdb', {
+mongoose.connect(process.env.MONGODB_URI || 'mongodb://localhost:27017/oldegg_db', {
   useNewUrlParser: true,
   useUnifiedTopology: true,
   useCreateIndex: true,
