@@ -15,7 +15,7 @@ export const AppNavbar = () => {
           <Navbar.Toggle aria-controls="navbar-nav" />
           <Navbar.Collapse id="navbar-nav">
             <Nav className="ml-auto">
-              <Nav.Link as={Link} to="/login">Login</Nav.Link>
+              <Nav.Link className="login" as={Link} to="/login">Login</Nav.Link>
               <Nav.Link as={Link} to="/cart" className="cart-icon"><ShoppingCart size={32} /></Nav.Link>
             </Nav>
           </Navbar.Collapse>
