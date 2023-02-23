@@ -35,4 +35,4 @@ const psuSchema = new mongoose.Schema({
     },
 });
 
-module.exports = mongoose.model('Component', psuSchema);
+module.exports = mongoose.model('Psu', psuSchema);

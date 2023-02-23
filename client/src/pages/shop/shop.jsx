@@ -5,7 +5,7 @@ import "./shop.css";
 
 // this is bringing all the data files in right now. access different types by saying partsData.typeOfProductYouWant 
 // this needs to be coming from the database eventually which means fixing the server structure
-import partsData, { gpu, cpu, motherboard, cases, coolers, ram, psu, storage } from '../../data/seeds'
+import partsData, { gpu, cpu, motherboard, cases, coolers, ram, psu, storage } from '../../data/parts'
 
 export const Shop = () => {
   const [view, setView] = useState("PARTS")
@@ -16,7 +16,7 @@ export const Shop = () => {
   const renderItemsByTag = () => {
     //given the state 'view' we render a specific item type selected in the if statement below
 
-    if(view == "GPU") {
+    if(view === "GPU") {
       return (
         <>
           {partsData.gpu.map(gpu => (
@@ -26,7 +26,7 @@ export const Shop = () => {
           ))}
         </>
       )
-    } else if (view == "CPU") {
+    } else if (view === "CPU") {
       return (
         <>
           {partsData.cpu.map(cpu => (
@@ -36,7 +36,7 @@ export const Shop = () => {
           ))}
         </>
       )
-    } else if (view == "MOTHERBOARD") {
+    } else if (view === "MOTHERBOARD") {
       return (
         <>
           {partsData.motherboard.map(motherboard => (
@@ -46,7 +46,7 @@ export const Shop = () => {
           ))}
         </>
       )
-    } else if (view == "CASES") {
+    } else if (view === "CASES") {
       return (
         <>
           {partsData.cases.map(cases => (
@@ -56,7 +56,7 @@ export const Shop = () => {
           ))}
         </>
       )
-    } else if (view == "COOLERS") {
+    } else if (view === "COOLERS") {
       return (
         <>
           {partsData.coolers.map(coolers => (
@@ -66,7 +66,7 @@ export const Shop = () => {
           ))}
         </>
       )
-    } else if (view == "RAM") {
+    } else if (view === "RAM") {
       return (
         <>
           {partsData.ram.map(ram => (
@@ -76,7 +76,7 @@ export const Shop = () => {
           ))}
         </>
       )
-    } else if (view == "PSU") {
+    } else if (view === "PSU") {
       return (
         <>
           {partsData.psu.map(psu => (
@@ -86,7 +86,7 @@ export const Shop = () => {
           ))}
         </>
       )
-    } else if (view == "STORAGE") {
+    } else if (view === "STORAGE") {
       return (
         <>
           {partsData.storage.map(storage => (

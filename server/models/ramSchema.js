@@ -31,4 +31,4 @@ const ramSchema = new mongoose.Schema({
     },
 });
 
-module.exports = mongoose.model('Component', ramSchema);
+module.exports = mongoose.model('Ram', ramSchema);

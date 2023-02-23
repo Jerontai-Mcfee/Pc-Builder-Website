@@ -23,4 +23,4 @@ const motherboardSchema = new mongoose.Schema({
     },
 });
 
-module.exports = mongoose.model('Component', motherboardSchema);
+module.exports = mongoose.model('Motherboard', motherboardSchema);

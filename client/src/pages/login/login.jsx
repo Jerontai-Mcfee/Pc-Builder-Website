@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import "./login.css";
 
 function Login() {
   const [formState, setFormState] = useState({email:"", password:""})
@@ -8,10 +9,7 @@ function Login() {
     } else {
       setFormState({...formState, password: event.target.value})
     }
-    // <input class="form-input" type="text" id="email" name="email">
-    // console.log(event.target.name)
-    // console.log(event.target.value)
-    
+ 
   }
   function handleSubmit(event) {
     event.preventDefault();
