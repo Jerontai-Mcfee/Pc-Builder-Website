@@ -16,7 +16,7 @@ mongoose.connect(process.env.MONGODB_URI || 'mongodb://localhost:27017/oldegg_db
   useFindAndModify: false,
 });
 
-const db = mongoose.connection;
+const mc = mongoose.connection;
 
 db.on('error', console.error.bind(console, 'connection error:'));
 db.once('open', () => {

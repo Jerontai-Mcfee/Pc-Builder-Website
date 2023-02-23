@@ -36,8 +36,8 @@ const seedDb = async () => {
 
 
 
-    const componentsWithAddedUsers = drinkData.map(drink => {
-      return { ...drink, owner: users[0]._id }
+    const componentsWithAddedUsers = componentData.map(component => {
+      return { ...component, owner: users[0]._id }
     })
     console.log(users.length);
 
