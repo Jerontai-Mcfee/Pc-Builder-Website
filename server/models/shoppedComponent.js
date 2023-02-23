@@ -19,4 +19,5 @@ const shoppedComponentSchema = new mongoose.Schema({
         required: true
     }
 });
+
 module.exports = mongoose.model('ShoppedComponent', shoppedComponentSchema);
