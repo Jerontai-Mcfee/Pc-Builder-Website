@@ -23,4 +23,4 @@ const coolersSchema = new mongoose.Schema({
     },
 });
 
-module.exports = mongoose.model('Component', coolersSchema);
+module.exports = mongoose.model('Cooler', coolersSchema);

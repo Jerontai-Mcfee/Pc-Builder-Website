@@ -19,4 +19,4 @@ const gpuSchema = new mongoose.Schema({
     },
 });
 
-module.exports = mongoose.model('Component', gpuSchema);
+module.exports = mongoose.model('Gpu', gpuSchema);

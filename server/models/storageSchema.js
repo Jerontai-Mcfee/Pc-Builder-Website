@@ -27,4 +27,4 @@ const storageSchema = new mongoose.Schema({
     },
 });
 
-module.exports = mongoose.model('Component', storageSchema);
+module.exports = mongoose.model('Storage', storageSchema);
