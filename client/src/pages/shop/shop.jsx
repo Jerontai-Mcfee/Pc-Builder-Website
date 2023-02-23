@@ -101,6 +101,7 @@ export const Shop = () => {
   }
 
   return (
+    <div main>
     <div className='shop'>
       {/* every Button here changes the state to the specific type of product, or all products */}
       <button onClick={handleClick}>PARTS</button>
@@ -138,6 +139,7 @@ export const Shop = () => {
                 )
               }
               </div>
+    </div>
     </div>
   );
 };
