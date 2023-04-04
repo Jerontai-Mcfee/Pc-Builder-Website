@@ -169,8 +169,8 @@ export const Shop = () => {
       </div>
 
 
-      <div className='shopTitle'>
-        <h1>Old Egg</h1>
+      <div >
+        <h1 className='shopTitle'>Old Egg</h1>
      
       <div className="products">
         {/* Ternary operator for checking if we are viewing ALL products or a single product

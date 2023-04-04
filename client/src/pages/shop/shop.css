@@ -1,11 +1,11 @@
 .shopTitle {
-    margin-top: 100px;
+    margin-top: 300px;
     text-align: center;
     font-size: 40px;
   }
   .products {
     width: 100%;
-    height: auto;
+    height: 75%;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     place-items: center;
@@ -14,7 +14,7 @@
   .product {
     border-radius: 15px;
     width: 300px;
-    height: 350px;
+    height: 200px;
     margin: 100px;
     display: flex;
     flex-direction: column;
@@ -23,7 +23,7 @@
   }
   
   .product img {
-    width: 300px;
+    width: 200px;
   }
   
   .product .description {
@@ -47,7 +47,7 @@
     
     .product {
       border-radius: 15px;
-      width: 300px;
+      width: 200px;
       height: 350px;
       margin: 100px;
       display: flex;
@@ -55,7 +55,7 @@
       justify-content: center;
       align-items: center;
     }
-    
+    /* changes product image size */
     .product img {
       width: 300px;
       border: none; /* remove border */
