@@ -121,21 +121,25 @@ export const Shop = () => {
      <img className="is-rounded"  src={partsImage} style={{ width: "128px", height: "128px", borderRadius: "50%" }} />
      </button>
      </figure>
+
      <figure className="image-buttons">
       <button className="pbuttons" onClick={handleClick}>CPU
       <img className="is-rounded"  src={cpuImage} style={{ width: "128px", height: "128px", borderRadius: "50%" }} />
       </button>
       </figure>
+
       <figure className="image-buttons">
       <button className="pbuttons" onClick={handleClick}>GPU
       <img className="is-rounded"  src={gpuImage} style={{ width: "128px", height: "128px", borderRadius: "50%" }} />
       </button>
       </figure>
+      
       <figure className="image-buttons">
       <button className="pbuttons" onClick={handleClick}>MOTHERBOARD
       <img className="is-rounded"  src={motherboardImage} style={{ width: "128px", height: "128px", borderRadius: "50%" }} />
      </button> 
      </figure>
+     
       <figure className="image-buttons">
       <button className="pbuttons" onClick={handleClick}>CASES
       <img className="is-rounded"  src={caseImage} style={{ width: "128px", height: "128px", borderRadius: "50%" }} />
