@@ -34,6 +34,8 @@ Brandon Rodriguez<br>
 ## Live Link to Heroku Deployment
 https://old-egg.herokuapp.com/
 
-![Screenshot]![Alt text](assets\PcBuilder.png)
+## Screenshot 
+
+![alt text](client\src\assets\PcBuilder.png)
 
 npm run develop
