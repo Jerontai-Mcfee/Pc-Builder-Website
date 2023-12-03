@@ -36,6 +36,6 @@ https://old-egg.herokuapp.com/
 
 ## Screenshot 
 
-![alt text](client\src\assets\PcBuilder.png)
+![Alt text](client/src/assets/PcBuilder.png)
 
 npm run develop
